@@ -173,7 +173,7 @@ python main.py
 chmod +x run_program.sh
 ./run_program.sh
 
-# Metode 3: Dengan script (Windows)
+## Metode 3: Dengan script (Windows)
 run.bat
 
 ### 3. Contoh Penggunaan dalam Code
